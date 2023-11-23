@@ -17,6 +17,7 @@ xtrain, xtest, ytrain, ytest = train_test_split(x, y, test_size=.40, random_stat
 
 # Create and train the linear regression model
 rg = LinearRegression()
+
 rg.fit(xtrain, ytrain)
 
 # Make predictions on a new data point (e.g., speed = 90)
