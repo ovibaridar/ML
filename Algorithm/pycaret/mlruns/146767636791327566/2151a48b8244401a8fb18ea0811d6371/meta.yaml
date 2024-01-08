@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/2151a48b8244401a8fb18ea0811d6371/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 2151a48b8244401a8fb18ea0811d6371
+run_name: Session Initialized a08a
+run_uuid: 2151a48b8244401a8fb18ea0811d6371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684179397
+status: 1
+tags: []
+user_id: Ovi

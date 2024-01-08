@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/9be08c0c154848a5b8f97c88bc05f0af/artifacts
+end_time: 1704684291291
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 9be08c0c154848a5b8f97c88bc05f0af
+run_name: K Neighbors Classifier
+run_uuid: 9be08c0c154848a5b8f97c88bc05f0af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684291129
+status: 3
+tags: []
+user_id: Ovi

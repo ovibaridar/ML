@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/ad8203af3c624fafa8160760524bb6d8/artifacts
+end_time: 1704684293394
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: ad8203af3c624fafa8160760524bb6d8
+run_name: Ada Boost Classifier
+run_uuid: ad8203af3c624fafa8160760524bb6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684293237
+status: 3
+tags: []
+user_id: Ovi

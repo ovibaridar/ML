@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/7111338819ac46c6b320c0f53e35a25f/artifacts
+end_time: 1704684293103
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 7111338819ac46c6b320c0f53e35a25f
+run_name: Random Forest Classifier
+run_uuid: 7111338819ac46c6b320c0f53e35a25f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684292940
+status: 3
+tags: []
+user_id: Ovi

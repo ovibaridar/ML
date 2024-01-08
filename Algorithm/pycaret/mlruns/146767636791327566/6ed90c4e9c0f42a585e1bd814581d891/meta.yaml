@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/6ed90c4e9c0f42a585e1bd814581d891/artifacts
+end_time: 1704684293992
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 6ed90c4e9c0f42a585e1bd814581d891
+run_name: Ridge Classifier
+run_uuid: 6ed90c4e9c0f42a585e1bd814581d891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684293834
+status: 3
+tags: []
+user_id: Ovi

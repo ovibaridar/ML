@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/130b813daacd41da9f179a137f32bca4/artifacts
+end_time: 1704684293700
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 130b813daacd41da9f179a137f32bca4
+run_name: Light Gradient Boosting Machine
+run_uuid: 130b813daacd41da9f179a137f32bca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684293529
+status: 3
+tags: []
+user_id: Ovi

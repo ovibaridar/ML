@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/83d99233353e45e5a90ede10d1c603e2/artifacts
+end_time: 1704684291890
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 83d99233353e45e5a90ede10d1c603e2
+run_name: Logistic Regression
+run_uuid: 83d99233353e45e5a90ede10d1c603e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684291725
+status: 3
+tags: []
+user_id: Ovi

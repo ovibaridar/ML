@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/3bd54af0fd7549a898de60c30b76f957/artifacts
+end_time: 1704684290996
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 3bd54af0fd7549a898de60c30b76f957
+run_name: Quadratic Discriminant Analysis
+run_uuid: 3bd54af0fd7549a898de60c30b76f957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684290826
+status: 3
+tags: []
+user_id: Ovi

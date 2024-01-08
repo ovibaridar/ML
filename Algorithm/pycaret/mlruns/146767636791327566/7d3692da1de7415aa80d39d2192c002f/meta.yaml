@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ovi/ML/Algorithm/pycaret/mlruns/146767636791327566/7d3692da1de7415aa80d39d2192c002f/artifacts
+end_time: 1704684292805
+entry_point_name: ''
+experiment_id: '146767636791327566'
+lifecycle_stage: active
+run_id: 7d3692da1de7415aa80d39d2192c002f
+run_name: Decision Tree Classifier
+run_uuid: 7d3692da1de7415aa80d39d2192c002f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704684292647
+status: 3
+tags: []
+user_id: Ovi
